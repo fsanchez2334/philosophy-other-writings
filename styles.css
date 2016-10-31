@@ -8,6 +8,7 @@ h2{
     color:grey; 
     
 }
-nav{
-    background-image: url("http://cdn.wallpapersafari.com/73/50/cyV4Pu.jpg");
+
+.jumbotron{
+    background-color: crimson;
 }
